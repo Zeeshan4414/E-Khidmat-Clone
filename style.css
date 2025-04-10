@@ -503,7 +503,7 @@ text-decoration: none;
 /* Virtual Tour  */
 .background-container {
     position: relative;
-    background-image: url('tour.jfif');
+    background-image: url('Assets/tour.jfif');
     background-size: cover;
     background-position: center;
     height: 250px;

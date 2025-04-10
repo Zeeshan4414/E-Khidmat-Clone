@@ -6,12 +6,12 @@ This is the frontend clone of the **Ekhimat** platform, designed using **HTML**,
 ## Features
 - **Responsive Design** with Bootstrap 5.0 grid system.
 - Clean and modern UI.
-- Interactive components (e.g., forms, buttons, modals).
+- Interactive components.
 - Mobile-first design for optimal performance across devices.
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, Bootstrap 5.0
-- **Icons and Fonts:** Font Awesome (optional), Google Fonts (optional)
+- **Icons and Fonts:** Font Awesome , Google Fonts
 
 ## Live Demo
 The project can be viewed live at:
@@ -29,18 +29,18 @@ cd E-Khimat-Clone
 ```bash
 cd E-Khidmat-Clone
 ```
-### 3. Open the `index.html` File in Your Browser
+### 3. Open the `Home.html` File in Your Browser
 #### For macOS:
 ```bash
-open index.html
+open Home.html
 ```
 #### For Linux:
 ```bash
-xdg-open index.html
+xdg-open Home.html
 ```
 #### For Windows:
 ```bash
-start index.html
+start Home.html
 ```
 ##### Optional: Using Live Server in Visual Studio Code (VS Code)
 
@@ -53,5 +53,5 @@ code .
 ```
 ### 6. Run the Project with Live Server
 #### Once the project is open in VS Code:
-#### - Right-click on the index.html file in the Explorer panel.
+#### - Right-click on the Home.html file in the Explorer panel.
 #### - Select "Open with Live Server" from the context menu.
