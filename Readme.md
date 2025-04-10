@@ -13,10 +13,6 @@ This is the frontend clone of the **Ekhimat** platform, designed using **HTML**,
 - **Frontend:** HTML, CSS, Bootstrap 5.0
 - **Icons and Fonts:** Font Awesome , Google Fonts
 
-## Live Demo
-The project can be viewed live at:
-[Live Demo URL](https://your-live-demo-url.com)
-
 ## Running the Project Locally
 
 ### 1. Clone the Repository
